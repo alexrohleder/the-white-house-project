@@ -1,10 +1,10 @@
 
 # List of Technologies
-- **[HTML5]**(#html5)
+- **[HTML5](#html5)**
 - [CSS3](#css3)
     - [BOOTSTRAP](#bootstrap)
-- **[JAVASCRIPT]**(#javascript)
-    - **[VUEJS]**(#vuejs)
+- **[JAVASCRIPT](#javascript)**
+    - **[VUEJS](#vuejs)**
 - [GIT](#git)
     - [GITHUB](#github)
     - [WORKFLOW](#workflow)
