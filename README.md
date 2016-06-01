@@ -7,3 +7,5 @@ Repositório do aplicativo para a casa do estudante :)
 - [Guilherme Müller](https://github.com/guimulu)
 - [Jaime Maretoli](https://github.com/jaimemaretoli)
 - [Hercules Karkow](https://github.com/herculeskarkow)
+- [Ezequiel Drews](https://github.com/EzequielDrews)
+
