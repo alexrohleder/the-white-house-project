@@ -1,4 +1,4 @@
-# The White House
+# The White House Project
 Repositório do aplicativo para a casa do estudante :)
 
 ## Desenvolvedores
