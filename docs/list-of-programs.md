@@ -1,8 +1,8 @@
 
 # List of Programs
 
-- **[SUBLIME TEXT](sublimetext.com)**
-- **[NODEJS](nodejs.org)**
-- **[GIT](git-scm.com)**
+- **[SUBLIME TEXT](http://sublimetext.com)**
+- **[NODEJS](http://nodejs.org)**
+- **[GIT](http://git-scm.com)**
 - [XAMPP](apachefriends.org)
 - [COMPOSER](getcomposer.org)
