@@ -22,19 +22,19 @@ HTML é uma linguagem de marcação e não de programação! Descubram e explore
 Uma aplicação bonita vende muito mais! Compreendam sua sintaxe e sua utilização, será importante durante o desenvolvimento.
 
 ### BOOTSTRAP
-Utilizaremos bibliotecas com código pronto como o [Bootstrap](getbootstrap.com) do Twitter, porém é sempre necessário saber com o que se está lidando, mesmo que não seja necessário saber como foi implementado o que se está usando.
+Utilizaremos bibliotecas com código pronto como o [Bootstrap](http://getbootstrap.com) do Twitter, porém é sempre necessário saber com o que se está lidando, mesmo que não seja necessário saber como foi implementado o que se está usando.
 
 ## JAVASCRIPT
 Compreendam o que é o javascript e brinquem um pouco com ele! Todo mundo usa, qualquer dúvida joguem no google e em 90% dos casos alguém já resolveu.
 
 ### VUEJS
-Utilizaremos o framework [VueJS](vuejs.org), simples, robusto e incrível! Ele cuidará de toda a lógica do nosso aplicativo. Procurem entender seus conceitos e funcionamento, além é claro, de compreender ao menos o básico de javascript! Sigam os guias do próprio site, eles são muito bons.
+Utilizaremos o framework [VueJS](http://vuejs.org), simples, robusto e incrível! Ele cuidará de toda a lógica do nosso aplicativo. Procurem entender seus conceitos e funcionamento, além é claro, de compreender ao menos o básico de javascript! Sigam os guias do próprio site, eles são muito bons.
 
 ## GIT
 Sistema de versionamento que utilizaremos.
 
 ### GITHUB
-Nosso sistema de gerenciamento de projeto, o [github](github.com)! [Me sigam](github.com/alexrohleder96)!!
+Nosso sistema de gerenciamento de projeto, o [github](http://github.com)! [Me sigam](github.com/alexrohleder96)!!
 
 ### WORKFLOW
 Utilizaremos uma pequena variação do modelo [gitflow](http://nvie.com/posts/a-successful-git-branching-model/).
@@ -54,7 +54,7 @@ Leiam a documentação em [php.net](php.net)! Servidor para windows/linux/mac po
 Gerenciador de pacotes do PHP, assim como o [NPM](#npm). O utilizaremos para reaproveitar códigos de terceiros, os chamados pacotes.
 
 ### LARAVEL
-[Laravel](laravel.com) é um famoso Framework MVC de PHP.
+[Laravel](http://laravel.com) é um famoso Framework MVC de PHP.
 
 ## PHONEGAP
-[Phonegap](phonegap.com) é uma aplicação que converte nosso aplicativo web em um aplicativo multi-plataforma.
+[Phonegap](http://phonegap.com) é uma aplicação que converte nosso aplicativo web em um aplicativo multi-plataforma.
