@@ -28,7 +28,7 @@ Utilizaremos bibliotecas com código pronto como o [Bootstrap](getbootstrap.com)
 Compreendam o que é o javascript e brinquem um pouco com ele! Todo mundo usa, qualquer dúvida joguem no google e em 90% dos casos alguém já resolveu.
 
 ### VUEJS
-Utilizaremos o framework [VueJS](vuejs.org), simples, robusto e incrível! Ele cuidará de toda a lógica do nosso aplicativo, procurem entender seus conceitos e funcionamento, além é claro de compreender ao menos o básico de javascript! Sigam os guias do próprio site, eles são muito bons.
+Utilizaremos o framework [VueJS](vuejs.org), simples, robusto e incrível! Ele cuidará de toda a lógica do nosso aplicativo. Procurem entender seus conceitos e funcionamento, além é claro, de compreender ao menos o básico de javascript! Sigam os guias do próprio site, eles são muito bons.
 
 ## GIT
 Sistema de versionamento que utilizaremos.
@@ -40,21 +40,21 @@ Nosso sistema de gerenciamento de projeto, o [github](github.com)! [Me sigam](gi
 Utilizaremos uma pequena variação do modelo [gitflow](http://nvie.com/posts/a-successful-git-branching-model/).
 
 ## NODEJS
-Servidor construido em javascript e mantido pela google, utilizaremos o seu serviço de gerenciamento de pacotes. Veja mais em [NPM](#npm).
+Servidor construido em javascript e mantido pela google. Utilizaremos o seu serviço de gerenciamento de pacotes. Veja mais em [NPM](#npm).
 
 ### NPM
-Gerenciador de pacotes javascript, usaremos para a instalação de bibliotecas de terceiros em nosso projeto!
+Gerenciador de pacotes javascript. Usaremos para a instalação de bibliotecas de terceiros em nosso projeto!
 
-> **NOTA:** Pacotes são um conjunto de código pronto feito por outras pessoas para resolver um determinado problema. Reutilizamos vários pacotes para ter um desenvolvimento mais ágil, a este momento muitos de nossos problemas já foram resolvidos por alguém.
+> **NOTA:** Pacotes são um conjunto de códigos prontos, feito por outras pessoas para resolver um determinado problema. Reutilizaremos vários pacotes para ter um desenvolvimento mais ágil. Muitos de nossos problemas já foram resolvidos por alguém.
 
 ## PHP
 Leiam a documentação em [php.net](php.net)! Servidor para windows/linux/mac pode ser encontrado [aqui](https://www.apachefriends.org/pt_br/).\\\\\\
 
 ### COMPOSER
-Gerenciador de pacotes do PHP, assim como o [NPM](#npm), o utilizaremos para reaproveitar códigos de terceiros, os chamados pacotes.
+Gerenciador de pacotes do PHP, assim como o [NPM](#npm). O utilizaremos para reaproveitar códigos de terceiros, os chamados pacotes.
 
 ### LARAVEL
-[laravel](laravel.com) é um famoso Framework MVC de PHP.
+[Laravel](laravel.com) é um famoso Framework MVC de PHP.
 
 ## PHONEGAP
 [Phonegap](phonegap.com) é uma aplicação que converte nosso aplicativo web em um aplicativo multi-plataforma.
